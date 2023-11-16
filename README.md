@@ -1,2 +1,2 @@
 # COMP2140
-COMP2140 Demo
+Welcome to COMP2140 Demo
